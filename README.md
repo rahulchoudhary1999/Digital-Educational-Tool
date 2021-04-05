@@ -1,4 +1,5 @@
 
+
 # Digital Educational Tool
 
 Tool is build for Chemistry teachers who want to teach chemistry in a simple and professional manner. User can user this tool to show the power of chemistry using chemistry Symbols and explaning concept using diagrams which user dont need to draw themself.
@@ -14,3 +15,7 @@ Requirements:-
 2)Qt Creater.
 
 ![2021-04-05 (10)](https://user-images.githubusercontent.com/70053621/113595472-b00e1980-9656-11eb-8927-229c86bf925e.png)
+![2021-04-05 (11)](https://user-images.githubusercontent.com/70053621/113596014-5e19c380-9657-11eb-9345-940f175e8a9b.png)
+![2021-04-05 (12)](https://user-images.githubusercontent.com/70053621/113596089-72f65700-9657-11eb-92b0-362e263f6986.png)
+![2021-04-05 (13)](https://user-images.githubusercontent.com/70053621/113596098-7689de00-9657-11eb-81a6-c4fbd842c5c1.png)
+![2021-04-05 (14)](https://user-images.githubusercontent.com/70053621/113596122-7d185580-9657-11eb-9550-e86e691060ca.png)
