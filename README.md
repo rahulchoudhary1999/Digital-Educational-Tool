@@ -15,7 +15,18 @@ Requirements:-
 2)Qt Creater.
 
 ![2021-04-05 (10)](https://user-images.githubusercontent.com/70053621/113595472-b00e1980-9656-11eb-8927-229c86bf925e.png)
+
 ![2021-04-05 (11)](https://user-images.githubusercontent.com/70053621/113596014-5e19c380-9657-11eb-9345-940f175e8a9b.png)
+
 ![2021-04-05 (12)](https://user-images.githubusercontent.com/70053621/113596089-72f65700-9657-11eb-92b0-362e263f6986.png)
+
 ![2021-04-05 (13)](https://user-images.githubusercontent.com/70053621/113596098-7689de00-9657-11eb-81a6-c4fbd842c5c1.png)
+
 ![2021-04-05 (14)](https://user-images.githubusercontent.com/70053621/113596122-7d185580-9657-11eb-9550-e86e691060ca.png)
+
+![2021-04-05 (21)](https://user-images.githubusercontent.com/70053621/113596502-0af44080-9658-11eb-8960-ff1527f5aac0.png)
+
+![2021-04-05 (18)](https://user-images.githubusercontent.com/70053621/113596520-10ea2180-9658-11eb-8575-571f6c571761.png)
+
+![2021-04-05 (20)](https://user-images.githubusercontent.com/70053621/113596557-1e071080-9658-11eb-9ed3-fa1b3e7df15f.png)
+
