@@ -2,7 +2,7 @@
 
 # Digital Educational Tool
 
-Tool is build for Chemistry teachers who want to teach chemistry in a simple and professional manner. User can user this tool to show the power of chemistry using chemistry Symbols and explaning concept using diagrams which user dont need to draw themself.
+Tool is build for Chemistry teachers who want to teach chemistry in a simple and professional manner. User can user this tool to show the power of chemistry using chemistry Symbols and explaning concept using diagrams which user don't need to draw themself.
 
 This tool provide Various facilities and tool like grouping,ungrouping,resize components,insert images,insert page,save/open files to explain different concept without deleting previous data and concepts.
 
