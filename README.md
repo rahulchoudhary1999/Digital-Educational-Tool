@@ -4,7 +4,7 @@
 
 Tool is build for Chemistry teachers who want to teach chemistry in a simple and professional manner. User can user this tool to show the power of chemistry using chemistry Symbols and explaning concept using diagrams which user don't need to draw themself.
 
-This tool provide Various facilities and tool like grouping,ungrouping,resize components,insert images,insert page,save/open files to explain different concept without deleting previous data and concepts.
+This tool provide various facilities and tools like grouping,ungrouping,resize components,insert images,insert page,save/open files to explain different concept without deleting previous data and concepts.
 
 User can use Pen(tool) to draw FreeHand or can user (tool) to look for diagrams which user can use to teach chemistry,user can also draw various shapes easily like rectangle,circle,line,Text.User can also use clear canvas option to clear the page by just clicking a single button,or can delete selected elements or shapes.
 
